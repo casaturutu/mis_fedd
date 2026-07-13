@@ -1,0 +1,36 @@
+name: Generar feeds RSS
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # cada 6 horas
+  workflow_dispatch:         # permite lanzarlo a mano desde la pestaña Actions
+  push:
+    paths:
+      - fuentes.txt          # también al modificar la lista de fuentes
+
+permissions:
+  contents: write
+
+jobs:
+  feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4
+
+      - name: Generar feeds
+        run: python generar_feeds.py
+
+      - name: Publicar cambios
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "actions@github.com"
+          git add feeds/
+          git diff --cached --quiet || git commit -m "Actualización automática de feeds"
+          git push
