@@ -1,0 +1,6 @@
+# Una URL por línea. Las líneas que empiezan por # se ignoran.
+# Ejemplos (borra estos y pon los tuyos):
+
+https://www.blogdebasket.com/
+https://imginn.com/recetasgeniales/
+https://ozviral.com/
