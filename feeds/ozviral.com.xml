@@ -4,14 +4,21 @@
 <title>Olla de Zulema - Receta fácil, deliciosa y viral</title>
 <link>https://ozviral.com/</link>
 <description>Feed generado desde https://ozviral.com/</description>
-<lastBuildDate>Mon, 05 Oct 2026 13:20:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 23:35:53 +0000</lastBuildDate>
 <generator>generar_feeds.py</generator>
 <item>
 <title>¡Bienvenido aOlla de Zulema!</title>
 <link>https://ozviral.com/category/recetas/entradas-y-aperitivos</link>
 <guid isPermaLink="true">https://ozviral.com/category/recetas/entradas-y-aperitivos</guid>
 <description><![CDATA[Descubre un mundo de sabores con recetas españolas e internacionales, fáciles y rápidas de preparar. Desdeaperitivoshastapostres, pasando por platos tradicionales y opciones deliciosas, nuestrasrecetasestán diseñadas para todos, sin necesidad de utensilios especiales. ¡Cocina con nosotros y disfruta cada día con sencillez y mucho sabor!]]></description>
-<pubDate>Sun, 04 Oct 2026 19:06:02 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 19:05:23 +0000</pubDate>
+</item>
+<item>
+<title>Burritos de Carne: Receta Fácil y Deliciosa para Tus Noches de Antojo</title>
+<link>https://ozviral.com/burritos-de-carne</link>
+<guid isPermaLink="true">https://ozviral.com/burritos-de-carne</guid>
+<description><![CDATA[Descubre cómo hacer deliciosos Burritos de Carne, una receta fácil y versátil para familias y amigos. Sabor picante, textura crujiente y perfecta para cualquier ocasión. ¡Aprende a prepararlos ahora!]]></description>
+<pubDate>Mon, 05 Oct 2026 19:05:23 +0000</pubDate>
 </item>
 <item>
 <title>Burrito Mar y Tierra: Explosión de Sabores en 25 Minutos</title>
@@ -49,13 +56,6 @@
 <pubDate>Wed, 30 Sep 2026 19:04:00 +0000</pubDate>
 </item>
 <item>
-<title>Bombas Queso Ajo: Receta Fácil y Deliciosa para Cualquier Ocasión</title>
-<link>https://ozviral.com/bombas-queso-ajo</link>
-<guid isPermaLink="true">https://ozviral.com/bombas-queso-ajo</guid>
-<description><![CDATA[Descubre la receta de Bombas Queso Ajo, bocaditos irresistibles de queso mozzarella en masa de croissant, perfectos para noches de cine o cenas con amigos. Fáciles de preparar y deliciosos.]]></description>
-<pubDate>Thu, 27 Aug 2026 19:05:36 +0000</pubDate>
-</item>
-<item>
 <title>Buñuelos de Manzana Horneados: Fáciles y Deliciosos</title>
 <link>https://ozviral.com/bunuelos-de-manzana-4</link>
 <guid isPermaLink="true">https://ozviral.com/bunuelos-de-manzana-4</guid>
@@ -84,6 +84,13 @@
 <pubDate>Wed, 23 Sep 2026 19:06:19 +0000</pubDate>
 </item>
 <item>
+<title>Bombas Queso Ajo: Receta Fácil y Deliciosa para Cualquier Ocasión</title>
+<link>https://ozviral.com/bombas-queso-ajo</link>
+<guid isPermaLink="true">https://ozviral.com/bombas-queso-ajo</guid>
+<description><![CDATA[Descubre la receta de Bombas Queso Ajo, bocaditos irresistibles de queso mozzarella en masa de croissant, perfectos para noches de cine o cenas con amigos. Fáciles de preparar y deliciosos.]]></description>
+<pubDate>Thu, 27 Aug 2026 19:05:36 +0000</pubDate>
+</item>
+<item>
 <title>Bombas de Queso Ajo: Receta Fácil y Deliciosa para Tus Reuniones</title>
 <link>https://ozviral.com/bombas-de-queso-ajo</link>
 <guid isPermaLink="true">https://ozviral.com/bombas-de-queso-ajo</guid>
@@ -95,19 +102,19 @@
 <link>https://ozviral.com/a-propos</link>
 <guid isPermaLink="true">https://ozviral.com/a-propos</guid>
 <description><![CDATA[Bienvenido a Ozviral (o a veces llamado Olla de Zulema): te invitamos a descubrir la cocina con una amplia selección de recetas deliciosas, fáciles, rápidas y accesibles, incluso para aquellos que son nuevos en el arte culinario. Ozviral fue creado por la escritora culinaria Zulema García, una joven española de 34 años, para compartir y preservar su vasta colección de recetas y tutoriales de cocina. Además, encontrarás contribuciones de otros escritores culinarios altamente calificados. Te animamos a explorar y buscar en el sitio para descubrir nuestros secretos de cocina, ideas…]]></description>
-<pubDate>Mon, 05 Oct 2026 13:20:17 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 23:35:53 +0000</pubDate>
 </item>
 <item>
 <title>https://ozviral.com/bunuelos-de-calabacin-saludables</title>
 <link>https://ozviral.com/bunuelos-de-calabacin-saludables</link>
 <guid isPermaLink="true">https://ozviral.com/bunuelos-de-calabacin-saludables</guid>
-<pubDate>Mon, 05 Oct 2026 13:20:17 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 23:35:53 +0000</pubDate>
 </item>
 <item>
 <title>https://ozviral.com/bunuelos-de-calabacin</title>
 <link>https://ozviral.com/bunuelos-de-calabacin</link>
 <guid isPermaLink="true">https://ozviral.com/bunuelos-de-calabacin</guid>
-<pubDate>Mon, 05 Oct 2026 13:20:17 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 23:35:53 +0000</pubDate>
 </item>
 </channel>
 </rss>
